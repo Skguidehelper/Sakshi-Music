@@ -91,7 +91,7 @@ async def greet_group(_, member: ChatMemberUpdated):
 ๏ 𝗡𝗔𝗠𝗘 ➠ {user.mention}
 ๏ 𝗜𝗗 ➠ {user.id}
 ๏ 𝐔𝐒𝐄𝐑𝐍𝐀𝐌𝐄 ➠ @{user.username}
-๏ 𝐌𝐀𝐃𝐄 𝐁𝐘 ➠ @Cute_girl_d21
+๏ 𝐌𝐀𝐃𝐄 𝐁𝐘 ➠ @Cute_girl_ll
 ➖➖➖➖➖➖➖➖➖➖➖
 """,
             reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(f"⦿ ᴀᴅᴅ ᴍᴇ ⦿", url=f"https://t.me/SakshiOp_music_bot?startgroup=true")]])
