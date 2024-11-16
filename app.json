@@ -14,12 +14,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "21702667",
+        "value": "24175365",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "6edfc559624f881569280cdb416f0c06",
+        "value": "6c671b52c2acbc665e239c006ed890a2",
         "required": true
       },
       "BOT_TOKEN": {
@@ -29,17 +29,17 @@
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "mongodb+srv://BrandedSupportGroup:BRANDED_WORLD@cluster0.v4odcq9.mongodb.net/?retryWrites=true&w=majority",
+        "value": "mongodb+srv://gefigo2922:gefigo2922@music990.29azj.mongodb.net/?retryWrites=true&w=majority&appName=Music990",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "6065568342",
+        "value": "7423400816",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session from @BRANDEDSTRINGSESSION_BOT on Telegram.",
-        "value": "BAGtIpMAsha2viZVD7RUB0QMQluhv9HsswXIRzhlqPITeomPZrurEOLBdqumTzOSqUdhyzVKNrpOJMdskVOZ_SzEHXy4POQYEMbp9AFUKnAD3Mb7g3eiJO8oqzhNxzd2qp6u5qAmV7x95e6fxTRsZFiFKZY0WDYfIC2URMtxCmCRr-afrE5h5PxOquNkTBTQe--RAsI6D2HCJ7PM7kD2AHmOkNkHQ8Ipb0vo-1ao2O6Klrrl8RU2HWA6dX94-vB1JtDi10SewjM4t_qmDrV7IhtTNfpfsRSWsjFXh3McTW9e6T_uJdWxRMZMHhlYjH2r_gCtu0iD18vFiRSo4ZY7HVX8jQH2kwAAAAGZOU-JAA",
+        "value": "BACZzqEAkjb-fflnfCheX-ZNHgwWnrkHh5QSYVPwmCRdka2GX8XWBp9CDjQacJSVN1VS9w00bJ7XoScBOlhmgKZOdGtsRYEjXt22EDQhCfJrL5icd81tK4C3gLfuaft5N0_25pmHJgyeOArk_Z_eL74RpWE0nTLyx3Ax2KnPepYwwrH5PzaTPJkn8KilIlsOtqmTXz_MTzwKEneGOVLltHcobLePzzTFM5dPKM9hnUNVV-W9zNmVYb2gWWsd-SdrVIihajMxStBSsn_9_pRwmpAvsMkMiYiyp72u45_WbIuYoXvIvLUgvtT-W2Wy5yyYd66wMxmUo8BzkETg9SjuXbaiOa6TWwAAAAHIEVb0AA",
         "required": true
       },
       "HEROKU_API_KEY": {
@@ -54,7 +54,7 @@
       },
       "LOGGER_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Don't Add Channel's ID.",
-        "value": "-1002184026796",
+        "value": "-1002106519820",
         "required": true
       }
     },
